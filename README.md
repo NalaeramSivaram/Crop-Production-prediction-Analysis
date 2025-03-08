@@ -1,7 +1,7 @@
 # Crop-Production-prediction-Analysis
 In this project the given data has been processed and transformed then EDA(exploratory Data Analysis) has been carried out.
-After EDA process Regression models has been analysed and selected.
-Then streamlit has been used to show the prediction. 
+After the EDA process, regression models have been analyzed and selected.
+Finally, Streamlit has been used to display the predictions. 
 **Data Cleaning and Preprocessing**
 Data Cleaning and Preprocessing is the process of preparing raw data for analysis and machine learning by removing errors, handling missing values, converting data types, scaling numerical features, and encoding categorical variables. This ensures that the data is accurate, consistent, and structured, making it suitable for training models and drawing meaningful insights.
 
